@@ -3,8 +3,8 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 
 Skills: Python / NumPy, Pandas, Uproot, Awkward Array, Hist, Coffea‑Casa
 
-- 🔭 I’m currently working on Asymmetry Analysis for the W+/W- ratio. 
-- 🌱 I’m currently learning Swift 
+- 👨🏽‍🔬 I’m currently working on Asymmetry Analysis for the W+/W- ratio. 
+- 📚 I’m currently learning Swift. 
 
 
 [<img src='https://img.icons8.com/color/48/twitterx--v1.png' alt='twitter' width='40' height='40'>](https://twitter.com/Tellechea_J_O)  [<img src='https://github.com/JOTELLECHEA/jotellechea/blob/main/icon.svg' alt='website' width='30' height='40'>](https://jonathantellechea.com)  
