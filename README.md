@@ -25,6 +25,5 @@ Skills: Python / NumPy, Pandas, Uproot, Awkward Array, Hist, Coffea‑Casa
 
 ![GitHub metrics](https://metrics.lecoq.io/jotellechea)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=jotellechea)  
 
-![Profile views](https://gpvc.arturio.dev/jotellechea)  
+
