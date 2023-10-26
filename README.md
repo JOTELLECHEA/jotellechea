@@ -8,6 +8,6 @@ Skills: Python / NumPy, Pandas, Uproot, Awkward Array, Hist, Coffea‑Casa
 - 📫 How to reach me: tellechea@email.virginia.edu 
 
 
-[<img src='https://img.icons8.com/color/48/twitterx--v1.png' alt='twitter' height='40'>](https://twitter.com/Tellechea_J_O)  [<img src='https://img.icons8.com/office/16/link.png' alt='website' height='40'>](https://jonathantellechea.com)  
+[<img src='https://img.icons8.com/color/48/twitterx--v1.png' alt='twitter' height='40'>](https://twitter.com/Tellechea_J_O)  [<img src='https://github.com/JOTELLECHEA/jotellechea/blob/main/icon.jpeg' alt='website' height='40'>](https://jonathantellechea.com)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotellechea&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
