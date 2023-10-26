@@ -5,9 +5,11 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 
 ## Current Projects and Learning
 
-- 👨🏽‍🔬 I’m currently working on Asymmetry Analysis for the W+/W- ratio. 
-- 📚 I’m currently learning Swift.
-  
+- **Utilizing CMS Open Data for W +/- Assymetry Analysis:** I'm actively engaged in a particle physics research project where I utilize CMS Open Data for my analysis of the W +/- ratio. It showcases the practical applications and relevance of CMS Open Data in advancing our understanding of fundamental physics and promoting collaboration within the particle physics community.
+
+- **Learning Swift:** In my ongoing journey to expand my programming skills, I'm currently diving into Swift, a versatile and powerful programming language. My goal is to harness the capabilities of Swift for various applications, from mobile app development to high-performance computing. Learning Swift is a testament to my commitment to staying at the forefront of technology and exploring new horizons in the world of coding.
+
+
 ## Skills
 
 - **Scripting & Automation:** Unix scripting, Make
