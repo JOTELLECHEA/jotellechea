@@ -12,6 +12,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 - **Programming:** Python, Jupyter Notebooks, C/C++, Java, Swift
 - **Computing:** Terminal (Unix), SSH, SCP, Git/GitHub
 
+## Current Projects and Learning
 
 - 👨🏽‍🔬 I’m currently working on Asymmetry Analysis for the W+/W- ratio. 
 - 📚 I’m currently learning Swift. 
