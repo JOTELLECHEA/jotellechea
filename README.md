@@ -21,6 +21,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 - **Programming:** Python, Jupyter Notebooks, C/C++, Java, Swift
 - **Computing:** Terminal (Unix), SSH, SCP, Git/GitHub
 
+## Examples of Work
 
 
 ## Connect with Me
