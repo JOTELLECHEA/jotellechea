@@ -23,6 +23,9 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 
 ## Examples of Work
 
+**Work in Progress:** Here's a GIF showcasing an ongoing project. Stay tuned for updates and improvements!
+
+![Elementary GIF](https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif)
 
 ## Connect with Me
 [<img src='https://img.icons8.com/color/48/twitterx--v1.png' alt='twitter' width='40' height='40'>](https://twitter.com/Tellechea_J_O)  [<img src='https://github.com/JOTELLECHEA/jotellechea/blob/main/icon.svg' alt='website' width='30' height='40'>](https://jonathantellechea.com) [<img src='https://img.icons8.com/fluency/48/email.png' alt='Email' width='40' height='40'>](mailto:tellechea@email.virginia.edu)
