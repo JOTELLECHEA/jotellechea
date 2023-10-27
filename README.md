@@ -23,7 +23,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 
 ## Examples of Work
 
-**Work in Progress:** Here's a GIF showcasing an ongoing project. Stay tuned for updates and improvements!
+**Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements!
 
 ![Elementary GIF](https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif)
 
