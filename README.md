@@ -45,5 +45,3 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
     
    <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotellechea&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
