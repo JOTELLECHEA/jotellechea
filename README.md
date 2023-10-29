@@ -1,23 +1,6 @@
 
 <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/Hi_I'm_Jonathan.png" width="100%" height="100%">
 
-<p align="center">
-    <a href="https://jonathantellechea.com" style="margin-right: 50px; text-decoration: none;">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue">
-    </a>
-    <a href="https://twitter.com/Tellechea_J_O" style="margin-right: 20px; text-decoration: none;">
-        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O">
-    </a>
-    <a href="mailto:tellechea@email.virginia.edu" style="text-decoration: none;">
-        <img alt="GitHub Repo" src="https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue">
-    </a>
-</p>
-## Contact Me
-<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>(https://jonathantellechea.com)
-<img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O' alt='Twitter'>(https://twitter.com/Tellechea_J_O)
-<img src='https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue' alt='Email' url= (mailto:tellechea@email.virginia.edu)>
-
-
 From the intricate dance of subatomic particles to the limitless possibilities of coding, I have always been captivated by the world of science and exploration. My journey through life has been marked by a relentless pursuit of knowledge and a commitment to unraveling the mysteries of the universe. My academic background includes a Bachelor's degree in Physics from the prestigious University of California, Santa Cruz (UCSC). This degree has not only shaped my thinking but also laid the foundation for my future endeavors. My research focused on improving a cut-based analysis method for ttHH production at the HL-LHC, a complex and crucial aspect of particle physics. I achieved this by harnessing the power of machine learning through boosted decision trees, paving the way for more accurate and efficient analysis techniques.
 
 ## Current Projects and Learning
@@ -49,3 +32,8 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
     
    <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200">
+   
+## Contact Me
+[<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>](https://jonathantellechea.com)
+[<img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O' alt='Twitter'>](https://twitter.com/Tellechea_J_O)
+[<img src='https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue' alt='Email'>](mailto:tellechea@email.virginia.edu)
