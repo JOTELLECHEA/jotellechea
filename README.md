@@ -1,8 +1,16 @@
 
 <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/Hi_I'm_Jonathan.png" width="100%" height="100%">
 
+<p align="center">
+    <a href="https://jonathantellechea.com">
+    <img alt="GitHub Repo" src="https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue" >
+    </a>
+    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O">
+    <a href="mailto:tellechea@email.virginia.edu">
+    <img alt="GitHub Repo" src="https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue" >
+    </a>
+</p>
 
-## About Me
 From the intricate dance of subatomic particles to the limitless possibilities of coding, I have always been captivated by the world of science and exploration. My journey through life has been marked by a relentless pursuit of knowledge and a commitment to unraveling the mysteries of the universe. My academic background includes a Bachelor's degree in Physics from the prestigious University of California, Santa Cruz (UCSC). This degree has not only shaped my thinking but also laid the foundation for my future endeavors. My research focused on improving a cut-based analysis method for ttHH production at the HL-LHC, a complex and crucial aspect of particle physics. I achieved this by harnessing the power of machine learning through boosted decision trees, paving the way for more accurate and efficient analysis techniques.
 
 ## Current Projects and Learning
@@ -34,9 +42,5 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
     
    <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200">
-
-
-## Connect with Me
-[<img src='https://img.icons8.com/color/48/twitterx--v1.png' alt='twitter' width='40' height='40'>](https://twitter.com/Tellechea_J_O)  [<img src='https://github.com/JOTELLECHEA/jotellechea/blob/main/icon.svg' alt='website' width='30' height='40'>](https://jonathantellechea.com) [<img src='https://img.icons8.com/fluency/48/email.png' alt='Email' width='40' height='40'>](mailto:tellechea@email.virginia.edu)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotellechea&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
