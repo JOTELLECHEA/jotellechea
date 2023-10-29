@@ -5,7 +5,9 @@
     <a href="https://jonathantellechea.com" style="margin-right: 50px; text-decoration: none;">
         <img alt="GitHub Repo" src="https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue">
     </a>
-    <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O">
+    <a href="https://twitter.com/Tellechea_J_O" style="margin-right: 20px; text-decoration: none;">
+        <img alt="X (formerly Twitter) URL" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O">
+    </a>
     <a href="mailto:tellechea@email.virginia.edu" style="text-decoration: none;">
         <img alt="GitHub Repo" src="https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue">
     </a>
