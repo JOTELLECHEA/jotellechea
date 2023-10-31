@@ -30,10 +30,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
       - [ ] Add support for iPad.
       - [ ] Implement Android compatibility.
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
-
-
-
-   <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200">
+    <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" style="margin-top: 30px;">
    
 ## Contact Me
 [<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>](https://jonathantellechea.com)
