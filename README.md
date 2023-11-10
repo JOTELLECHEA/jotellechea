@@ -30,9 +30,12 @@ From the intricate dance of subatomic particles to the limitless possibilities o
       - [ ] Add support for iPad.
       - [ ] Implement Android compatibility.
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
-  <dl>
-  <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
-  </dl>
+      <dl>
+      <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
+      </dl>
+    - **Want to support my project.**
+      <dl><a href="https://www.buymeacoffee.com/elementray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></dl>
+   
   
 2. **STRING**
     - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It is a portfolio webpage designed with a terminal UI that showcases your resume and facilitates networking. With its innovative design, it serves as a dynamic platform to connect, share your profile, and network with others. Explore the power of networking through a unique and interactive interface.
