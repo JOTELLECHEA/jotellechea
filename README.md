@@ -33,6 +33,16 @@ From the intricate dance of subatomic particles to the limitless possibilities o
   <dl>
   <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
   </dl>
+  
+2. **STRING**
+    - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It's a powerful tool that allows you to execute various commands, manage your system, and explore the digital world.
+    - **Current Goals:**
+    - [x] Enhance user interface.
+    - [ ] Implement advanced networking features.
+    - [ ] Add support to fork on GitHub as a template.
+    - **Work in Progress:** Here's a glimpse of the ongoing project. I am continuously working to improve and expand the functionality of "STRING."
+<!--     ![STRING GIF](string.gif) -->
+
    
 ## Contact Me
 [<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>](https://jonathantellechea.com)
