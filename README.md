@@ -35,7 +35,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
   </dl>
   
 2. **STRING**
-    - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It's a powerful tool that allows you to execute various commands, manage your system, and explore the digital world.
+    - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It is a portfolio webpage designed with a terminal UI that showcases your resume and facilitates networking. With its innovative design, it serves as a dynamic platform to connect, share your profile, and network with others. Explore the power of networking through a unique and interactive interface.
     - **Current Goals:**
     - [x] Enhance user interface.
     - [ ] Implement advanced networking features.
