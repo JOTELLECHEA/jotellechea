@@ -33,10 +33,6 @@ From the intricate dance of subatomic particles to the limitless possibilities o
       <dl>
       <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
       </dl>
-    - **Want to support my project.**
-      <dl><a href="https://www.buymeacoffee.com/elementray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></dl>
-   
-  
 2. **STRING**
     - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It is a portfolio webpage designed with a terminal UI that showcases your resume and facilitates networking. With its innovative design, it serves as a dynamic platform to connect, share your profile, and network with others. Explore the power of networking through a unique and interactive interface.
     - **Current Goals:**
@@ -44,9 +40,10 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - [ ] Implement advanced networking features.
     - [ ] Add support to fork on GitHub as a template.
     - **Work in Progress:** Here's a glimpse of the ongoing project. I am continuously working to improve and expand the functionality of "STRING."
-<!--     ![STRING GIF](string.gif) -->
-
    
+## Want to support my projects
+<dl><a href="https://www.buymeacoffee.com/jtellechea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></dl>
+
 ## Contact Me
 [<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>](https://jonathantellechea.com)
 [<img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O' alt='Twitter'>](https://twitter.com/Tellechea_J_O)
