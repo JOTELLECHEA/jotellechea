@@ -39,7 +39,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - [x] Enhance user interface.
     - [ ] Implement advanced networking features.
     - [ ] Add support to fork on GitHub as a template.
-    - **Work in Progress:** Here's a glimpse of the ongoing project. I am continuously working to improve and expand the functionality of "STRING."
+    - **Work in Progress:** I am continuously working to improve and expand the functionality of "STRING."
    
 ## Want to support my projects
 <dl><a href="https://www.buymeacoffee.com/jtellechea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></dl>
