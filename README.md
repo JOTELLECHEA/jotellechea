@@ -12,14 +12,10 @@ From the intricate dance of subatomic particles to the limitless possibilities o
 
 ## Skills
 
-- **Scripting & Automation:** Unix scripting, Make
-- **Data Analysis Tools:** NumPy, Pandas, Uproot, Awkward Array, Hist, Coffea-Casa
-- **Data Visualization:** Matplotlib, Seaborn, ggplot2
+- **Languages:** Python, C/C++, Java, Swift, HTML/CSS, JavaScript, LATEX, Mathematica
+- **Technologies/Frameworks:** erminal(Unix), SSH, SCP, GitHub, Unix scripting, Make
+- **Data Analysis Tools:** NumPy, Pandas, Matplotlib, ROOT, Uproot, Awkward Array, Hist, Coffea-Casa
 - **Machine Learning:** Keras, Scikit-learn, TensorFlow
-- **Scientific Writing:** LaTeX, Research papers, Documentation
-- **Physics Software:** ROOT, Mathematica
-- **Programming:** Python, Jupyter Notebooks, C/C++, Java, Swift
-- **Computing:** Terminal (Unix), SSH, SCP, Git/GitHub
 
 ## Examples of Work
 
