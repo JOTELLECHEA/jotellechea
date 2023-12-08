@@ -3,6 +3,11 @@
 
 From the intricate dance of subatomic particles to the limitless possibilities of coding, I have always been captivated by the world of science and exploration. My journey through life has been marked by a relentless pursuit of knowledge and a commitment to unraveling the mysteries of the universe. My academic background includes a Bachelor's degree in Physics from the prestigious University of California, Santa Cruz (UCSC). This degree has not only shaped my thinking but also laid the foundation for my future endeavors. My research focused on improving a cut-based analysis method for ttHH production at the HL-LHC, a complex and crucial aspect of particle physics. I achieved this by harnessing the power of machine learning through boosted decision trees, paving the way for more accurate and efficient analysis techniques.
 
+## What I'm up to:
+- 📚 I recently finished my Post-Baccalaureate at University of Virginia.
+- 📖 I’m currently trying to find time to learn `Swift` and `SQL`.
+- 📫 I can be reached at tellechea@email.virginia.edu. 
+
 ## Current Projects and Learning
 
 - **Utilizing CMS Open Data for W +/- Assymetry Analysis:** I'm actively engaged in a particle physics research project where I utilize CMS Open Data for my analysis of the W +/- ratio. It showcases the practical applications and relevance of CMS Open Data in advancing our understanding of fundamental physics and promoting collaboration within the particle physics community.
