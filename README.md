@@ -36,6 +36,9 @@ From the intricate dance of subatomic particles to the limitless possibilities o
     - [ ] Implement advanced networking features.
     - [ ] Add support to fork on GitHub as a template.
     - **Work in Progress:** I am continuously working to improve and expand the functionality of "STRING."
+   <dl>
+   <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/STRING.gif" width="300" height="200" > </dd>
+   </dl>
    
 ## Want to support my projects
 <dl><a href="https://www.buymeacoffee.com/jtellechea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></dl>
