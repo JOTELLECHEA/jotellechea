@@ -37,7 +37,7 @@ From the intricate dance of subatomic particles to the limitless possibilities o
         - [ ] Implement advanced networking features.
     - **Work in Progress:** I am continuously working to improve and expand the functionality of "STRING."
        <dl>
-       <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/STRING.gif" width="300" height="200" > </dd>
+       <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/STRING.gif" width="600" height="500" > </dd>
        </dl>
    
 ## Want to support my projects
