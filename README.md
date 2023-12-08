@@ -1,7 +1,7 @@
 
 <img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/Hi_I'm_Jonathan.png" width="100%" height="100%">
 
-From the intricate dance of subatomic particles to the limitless possibilities of coding, I have always been captivated by the world of science and exploration. My journey through life has been marked by a relentless pursuit of knowledge and a commitment to unraveling the mysteries of the universe. My academic background includes a Bachelor's degree in Physics from the prestigious University of California, Santa Cruz (UCSC). This degree has not only shaped my thinking but also laid the foundation for my future endeavors. My research focused on improving a cut-based analysis method for ttHH production at the HL-LHC, a complex and crucial aspect of particle physics. I achieved this by harnessing the power of machine learning through boosted decision trees, paving the way for more accurate and efficient analysis techniques.
+Enthusiastic physicist and data explorer delving into the wonders of the universe with code. Leveraging expertise in Python, machine learning, and particle physics to unravel the secrets hidden in vast datasets. Currently open to exciting opportunities and collaborations!
 
 ## What I'm up to:
 - 📚 I recently finished my Post-Baccalaureate at University of Virginia.
