@@ -33,7 +33,7 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
       - [ ] Implement Android compatibility.
     - **Completed:** Here's a GIF showcasing my finished project. Stay tuned for updates and improvements.
       <dl>
-      <dd><img href="https://jonathantellechea.com/Elementary/" src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
+      <dd><img href="https://jonathantellechea.com/Elementary/index.html" src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
       </dl>
     - **Download:** 
       <dl>
