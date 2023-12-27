@@ -34,7 +34,7 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
     - **Work in Progress:** Here's a GIF showcasing my ongoing project. Stay tuned for updates and improvements.
       <dl>
       <dd><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
-      <a href="https://apps.apple.com/us/app/elementary-particles/id6474945363" class="app-link-button"><img src="AppStore.svg" alt="App Store" /></a>
+      <dd><a href="https://apps.apple.com/us/app/elementary-particles/id6474945363" class="app-link-button"><img src="AppStore.svg" alt="App Store" /></a></dl>dd>
    
       </dl>
 2. **STRING**
