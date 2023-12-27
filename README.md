@@ -33,11 +33,11 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
       - [ ] Implement Android compatibility.
     - **Completed:** Here's a GIF showcasing my finished project. Stay tuned for updates and improvements.
       <dl>
-      <dd><img href="https://jonathantellechea.com/Elementary/index.html" src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" width="300" height="200" > </dd>
+      <dd><a href="https://jonathantellechea.com/Elementary/index.html"><img src="https://github.com/JOTELLECHEA/jotellechea/blob/main/elementary.gif" alt="Elementary Home Page "width="300" height="200" > </dd>
       </dl>
     - **Download:** 
       <dl>
-      <dd><a href="https://apps.apple.com/us/app/elementary-particles/id6474945363" class="app-link-button"><img src="AppStore.svg" alt="App Store" /></a></dd>
+      <dd><a href="https://apps.apple.com/us/app/elementary-particles/id6474945363" ><img src="AppStore.svg" alt="App Store" /></a></dd>
       </dl>
 2. **STRING**
     - **Summary:** "STRING" is a Smart Terminal Robust Interface for Networking. It is a portfolio webpage designed with a terminal UI that showcases your resume and facilitates networking. With its innovative design, it serves as a dynamic platform to connect, share your profile, and network with others. Explore the power of networking through a unique and interactive interface.
