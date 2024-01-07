@@ -52,5 +52,5 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
    
 ## Contact Me
 [<img src='https://img.shields.io/badge/My%20Website-Jonathantellechea.com-blue' alt='My Website'>](https://jonathantellechea.com)
-[<img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FTellechea_J_O' alt='Twitter'>](https://twitter.com/Tellechea_J_O)
+[<img src='https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fjotellechea' alt='Twitter'>](https://twitter.com/jotellechea)
 [<img src='https://img.shields.io/badge/Email-tellechea@email.virginia.edu-blue' alt='Email'>](mailto:tellechea@email.virginia.edu)
