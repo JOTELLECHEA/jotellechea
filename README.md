@@ -12,9 +12,6 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
 
 - **Utilizing CMS Open Data for W +/- Assymetry Analysis:** I'm actively engaged in a particle physics research project where I utilize CMS Open Data for my analysis of the W +/- ratio. It showcases the practical applications and relevance of CMS Open Data in advancing our understanding of fundamental physics and promoting collaboration within the particle physics community.
 
-- **Learning Swift:** In my ongoing journey to expand my programming skills, I'm currently diving into Swift, a versatile and powerful programming language. My goal is to harness the capabilities of Swift for various applications, from mobile app development to high-performance computing. Learning Swift is a testament to my commitment to staying at the forefront of technology and exploring new horizons in the world of coding.
-
-
 ## Skills
 
 - **Languages:** Python, C/C++, Java, Swift, HTML/CSS, JavaScript, LATEX, Mathematica
