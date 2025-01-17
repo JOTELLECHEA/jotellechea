@@ -6,7 +6,7 @@ Enthusiastic physicist and data explorer delving into the wonders of the univers
 ## What I'm up to:
 - 📚 I recently finished my Post-Baccalaureate at University of Virginia.
 - 📖 I’m currently trying to find time to learn `Swift` and `SQL`.
-- 📫 I can be reached at tellechea@email.virginia.edu. 
+- 📫 I can be reached at tellecheajonathan@gmail.com. 
 
 ## Current Projects and Learning
 
