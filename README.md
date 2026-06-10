@@ -14,14 +14,6 @@ Specializing in high-throughput data pipelines, deep learning architectures, and
 
 ---
 
-### 🔬 Core Expertise
-
-* **Deep Learning & Optimization:** Architecting and tuning DNN/BDT pipelines for highly imbalanced, massive-scale datasets; automated hyperparameter optimization.
-* **Data Pipelines:** Scaling data ingestion, extraction, and tabular transformation workflows using cluster computing and multi-GPU acceleration.
-* **Reproducibility:** Deploying isolated, containerized environments for stable, cross-platform analytical workflows.
-
----
-
 ### 🤝 Connect
 
 [![Website](https://img.shields.io/badge/Portfolio-jonathantellechea.com-blue?style=flat-square)](https://jonathantellechea.com)
