@@ -25,7 +25,7 @@ whether the uncertainty on a prediction means what it claims to mean.
 
 **Tools** PyTorch · Python · C++ · ROOT/uproot · Docker
 
-**Publication** [Aromatic Copper Hydride Cages](https://doi.org/10.24911/AAAFM/Energy/23-1565665047), AAAFM Energy 2020;1(1):16–26 — first author
+**Publication** [Aromatic Copper Hydride Cages](https://zenodo.org/records/21768443), AAAFM Energy 2020;1(1):16–26 — first author
 
 **Elsewhere** [jonathantellechea.com](https://jonathantellechea.com)
 
