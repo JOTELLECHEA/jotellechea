@@ -14,9 +14,10 @@ whether the uncertainty on a prediction means what it claims to mean.
 - **[schrodinger-pinn](https://github.com/JOTELLECHEA/schrodinger-pinn)** — 
   modular PyTorch framework solving Schrödinger equation variants; hybrid Adam + 
   L-BFGS optimization achieved 0.0002% relative error on 1D ground state energy
-- **[chess-transformer](https://github.com/JOTELLECHEA/chess-transformer)** *(repo in progress)* — legal-move
-  generation is capacity-bound, not data-bound; confirmed by linear probing
-  the residual stream
+- **[chess-transformer](https://github.com/JOTELLECHEA/chess-transformer)**
+  legal-move generation is neither capacity-bound nor data-bound alone; each roughly doubles
+  fully-legal games, both together take it from 4.4% to 51.8%. Linear probing the residual
+  stream shows the 12-layer model's board representation peaks three layers before the output
 - **[Character-level GPT from scratch](https://github.com/JOTELLECHEA/gpt-from-scratch)**
   — epoch-boundary validation hid the loss minimum by 5,300 steps; step-interval
   evaluation cut val loss 1.63 → 1.46
