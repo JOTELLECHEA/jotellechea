@@ -9,26 +9,26 @@ learn, and in whether the uncertainty on a prediction means what it claims
 to mean.
 
 **Current work**
-- **[chess-transformer](https://github.com/JOTELLECHEA/chess-transformer)** —
+- **[chess-transformer](https://github.com/JOTELLECHEA/chess-transformer):**
   legal-move generation is neither capacity-bound nor data-bound alone; each
   roughly doubles fully-legal games, both together take it from 4.4% to 51.8%.
   Linear probing the residual stream shows the 12-layer model's board
   representation peaks three layers before the output
-- **[schrodinger-pinn](https://github.com/JOTELLECHEA/schrodinger-pinn)** —
-  modular PyTorch framework solving Schrödinger equation variants; hybrid
-  Adam + L-BFGS optimization reached 0.0002% relative error on the 1D ground
-  state energy
-- **[gpt-from-scratch](https://github.com/JOTELLECHEA/gpt-from-scratch)** —
+- **[schrodinger-pinn](https://github.com/JOTELLECHEA/schrodinger-pinn):**
+  a PINN that discovers the ground-state energy as a trainable parameter
+  rather than fitting to a known solution; staged Adam then L-BFGS recovers
+  it to 0.0002% relative error on the infinite well
+- **[gpt-from-scratch](https://github.com/JOTELLECHEA/gpt-from-scratch):**
   epoch-boundary validation hid the loss minimum by 5,300 steps; step-interval
   evaluation cut val loss 1.63 → 1.46
-- **[resume-tailor](https://github.com/JOTELLECHEA/resume-tailor)** —
+- **[resume-tailor](https://github.com/JOTELLECHEA/resume-tailor):**
   role-specific résumés from a master document and a job posting; started as
   RAG, ended as full-context injection once retrieval proved wrong for a
   single-document corpus
 
 **Tools** PyTorch · Python · C++ · ROOT/uproot · Docker
 
-**Publication** [Aromatic Copper Hydride Cages](https://zenodo.org/records/21768443), AAAFM Energy 2020;1(1):16–26 — first author
+**Publication** [Aromatic Copper Hydride Cages](https://zenodo.org/records/21768443), AAAFM Energy 2020;1(1):16–26, first author
 
 **Elsewhere** [jonathantellechea.com](https://jonathantellechea.com)
 
