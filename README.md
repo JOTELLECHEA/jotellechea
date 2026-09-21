@@ -2,10 +2,11 @@
 
 Physicist working in machine learning. Los Angeles.
 
-Six years in experimental high-energy physics — ttHH searches at SCIPP, MIP
-Timing Detector work at UVA — now building and probing neural networks. I'm
-interested in what models learn that nobody told them to learn, and in
-whether the uncertainty on a prediction means what it claims to mean.
+Four years in experimental high-energy physics, with ttHH searches at SCIPP
+and MIP Timing Detector work at UVA. Now building and probing neural
+networks. I'm interested in what models learn that nobody told them to
+learn, and in whether the uncertainty on a prediction means what it claims
+to mean.
 
 **Current work**
 - **[chess-transformer](https://github.com/JOTELLECHEA/chess-transformer)** —
@@ -24,9 +25,6 @@ whether the uncertainty on a prediction means what it claims to mean.
   role-specific résumés from a master document and a job posting; started as
   RAG, ended as full-context injection once retrieval proved wrong for a
   single-document corpus
-- **Diffusion from the ground up** *(in progress)* — rebuilding DDPM from
-  Ho et al. 2020 in stages, working toward a calorimeter fast-simulation
-  surrogate
 
 **Tools** PyTorch · Python · C++ · ROOT/uproot · Docker
 
